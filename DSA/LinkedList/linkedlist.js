@@ -31,7 +31,7 @@ class LinkedList{
         }
         this.size++;
     }
-    remove a value from first
+    //remove a value from first
     deleteFirst(){
         if(this.head===null){
             return null;
